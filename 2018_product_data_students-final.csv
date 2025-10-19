@@ -1,0 +1,501 @@
+ID,Month,Region,Customer_ID,Product,Per-Unit Price,Quantity_1,Quantity_2
+0,1,Midwest,280,PearApple,363,25,92
+1,5,West,545,Orange Creepies,300,87,79
+2,8,Northeast,131,Future Toast,253,90,6
+3,4,Midwest,920,Farm Fresh,365,33,74
+4,12,South,358,Rotpunkt,220,4,13
+5,1,South,855,GMO Guardian,176,17,45
+6,8,Midwest,499,Mr Greens,447,37,95
+7,4,Midwest,172,Just The Fruit,160,84,39
+8,5,West,618,Funky Pops,380,28,95
+9,12,South,116,Giant Gummies,347,98,76
+10,11,West,458,Organiks,257,66,68
+11,12,Midwest,350,Funky Pops,380,63,90
+12,7,South,976,Mr Greens,447,23,99
+13,3,South,234,Crocodile Tears,143,64,28
+14,6,Midwest,480,Crocodile Tears,143,15,15
+15,4,Northeast,554,Giant Gummies,347,26,56
+16,1,West,918,Just The Fruit,160,1,75
+17,5,Midwest,493,Red Rock Candy,189,40,44
+18,11,Midwest,322,Just The Fruit,160,17,97
+19,5,South,480,Power Gels,193,8,21
+20,3,Midwest,409,Funky Pops,380,32,32
+21,6,Midwest,411,Cheezos,372,75,68
+22,10,South,162,Nap Be Gone,500,92,52
+23,3,Midwest,52,Only Pancakes,413,40,89
+24,3,West,824,Red Rock Candy,189,90,10
+25,1,South,60,Meat B Gone,495,35,67
+26,4,South,788,Panda Gummies,104,29,50
+27,6,West,30,Grey Gummies,446,73,88
+28,3,Midwest,218,Funky Pops,380,21,52
+29,11,Northeast,821,Green Lightning,161,55,79
+30,5,West,936,Purple Pain,105,45,84
+31,2,South,315,Big Waffle,268,61,30
+32,12,West,124,Just The Fruit,160,34,76
+33,3,Northeast,883,Ultra-Salty Chips,454,61,6
+34,11,South,329,Power Gels,193,89,59
+35,9,South,624,Grey Gummies,446,85,92
+36,5,Northeast,795,Rotpunkt,220,91,96
+37,11,Midwest,776,Meat B Gone,495,5,99
+38,11,Northeast,288,Yellow Zonkers,134,35,6
+39,4,South,416,Rotpunkt,220,92,20
+40,11,Northeast,651,Purple Pain,105,54,1
+41,6,West,870,Just The Fruit,160,40,20
+42,7,Midwest,468,Just The Fruit,160,13,4
+43,4,Midwest,643,Ultra-Salty Chips,454,62,22
+44,12,Northeast,339,Mr Greens,447,93,91
+45,2,West,19,Funky Pops,380,12,29
+46,4,West,525,Only Pancakes,413,75,88
+47,4,South,512,Mr Greens,447,35,64
+48,12,Northeast,542,Only Pancakes,413,92,30
+49,4,Midwest,770,Mr Greens,447,67,77
+50,6,Midwest,676,Red Rock Candy,189,9,40
+51,8,West,809,Farm Fresh,365,73,98
+52,7,West,716,Mr Greens,447,30,12
+53,7,South,511,Funky Pops,380,37,45
+54,5,South,406,Red Rock Candy,189,71,80
+55,8,Midwest,431,Crocodile Tears,143,76,87
+56,5,West,802,Panda Gummies,104,56,69
+57,12,Midwest,269,Panda Gummies,104,20,87
+58,12,Midwest,739,Purple Pain,105,94,35
+59,3,Northeast,644,Meat B Gone,495,63,9
+60,4,South,302,Yellow Zonkers,134,87,54
+61,5,Midwest,565,Mr Greens,447,81,8
+62,12,Northeast,109,GMO Guardian,176,10,66
+63,6,South,277,Mr Greens,447,49,4
+64,10,Midwest,33,GMO Guardian,176,25,61
+65,4,West,434,Just The Fruit,160,9,48
+66,6,South,815,Grey Gummies,446,37,66
+67,6,South,638,Mr Greens,447,56,37
+68,4,Northeast,397,Purple Pain,105,85,16
+69,11,West,169,Nap Be Gone,500,15,42
+70,4,South,681,Power Gels,193,80,80
+71,12,Midwest,930,Red Hot Chili Peppers,233,76,52
+72,12,West,591,Ultra-Salty Chips,454,88,34
+73,9,South,748,Ultra-Salty Chips,454,96,67
+74,4,Northeast,122,Just The Fruit,160,33,98
+75,8,Midwest,348,Orange Creepies,300,84,41
+76,12,South,116,Ultra-Salty Chips,454,44,44
+77,9,Northeast,510,Crocodile Tears,143,50,76
+78,2,Midwest,481,Red Rock Candy,189,71,89
+79,8,Northeast,873,Green Lightning,161,99,32
+80,12,Midwest,483,Meat B Gone,495,92,20
+81,2,Northeast,257,Organiks,257,78,45
+82,4,West,531,Giant Gummies,347,10,29
+83,5,Northeast,17,Farm Fresh,365,7,93
+84,4,South,173,Only Pancakes,413,72,9
+85,2,South,580,Red Rock Candy,189,16,71
+86,10,Northeast,985,Big Waffle,268,2,81
+87,8,West,645,Red Hot Chili Peppers,233,67,64
+88,6,Midwest,869,Meat B Gone,495,61,83
+89,11,Northeast,215,PearApple,363,73,24
+90,10,Midwest,765,Nap Be Gone,500,56,60
+91,1,West,707,Only Pancakes,413,77,32
+92,5,South,8,Red Rock Candy,189,26,50
+93,6,West,567,Orange Creepies,300,5,52
+94,9,South,160,Crocodile Tears,143,50,94
+95,8,West,183,Big Waffle,268,22,36
+96,10,Midwest,358,Organiks,257,96,68
+97,3,South,913,PearApple,363,27,88
+98,6,Northeast,594,Mr Greens,447,80,52
+99,6,South,190,Meat B Gone,495,93,90
+100,5,Northeast,498,Red Rock Candy,189,18,92
+101,4,South,576,Just The Fruit,160,52,80
+102,2,South,353,Green Lightning,161,95,74
+103,12,South,962,Orange Creepies,300,7,28
+104,6,South,965,Crocodile Tears,143,74,86
+105,3,West,534,Only Pancakes,413,63,81
+106,3,Midwest,754,Nap Be Gone,500,70,3
+107,12,South,958,Panda Gummies,104,57,74
+108,1,South,890,Crocodile Tears,143,97,57
+109,10,West,584,Giant Gummies,347,98,52
+110,5,Northeast,734,Big Waffle,268,57,76
+111,1,Midwest,561,Organiks,257,68,39
+112,10,Northeast,428,Farm Fresh,365,4,31
+113,12,Midwest,238,Yellow Zonkers,134,45,92
+114,2,West,340,Just The Fruit,160,98,24
+115,11,Northeast,681,Panda Gummies,104,31,94
+116,5,Northeast,678,Yellow Zonkers,134,91,28
+117,8,West,576,Purple Pain,105,43,51
+118,3,South,88,Big Waffle,268,57,74
+119,1,West,223,Farm Fresh,365,40,35
+120,6,Midwest,357,Just The Fruit,160,13,44
+121,6,Northeast,657,Panda Gummies,104,40,51
+122,10,West,301,Panda Gummies,104,79,15
+123,10,South,862,Panda Gummies,104,99,93
+124,6,West,618,Red Hot Chili Peppers,233,12,94
+125,1,Midwest,688,Orange Creepies,300,83,79
+126,12,South,516,Nap Be Gone,500,67,41
+127,6,Midwest,784,Big Waffle,268,19,66
+128,4,Midwest,376,Giant Gummies,347,64,94
+129,5,West,839,Farm Fresh,365,28,81
+130,3,South,624,Crocodile Tears,143,39,86
+131,5,Midwest,638,Only Pancakes,413,59,72
+132,9,South,578,Only Pancakes,413,48,50
+133,4,Midwest,738,Yellow Zonkers,134,21,99
+134,9,Northeast,708,Only Pancakes,413,57,73
+135,11,Midwest,795,Power Gels,193,5,36
+136,11,Midwest,154,Only Pancakes,413,94,97
+137,9,West,222,Ultra-Salty Chips,454,80,9
+138,1,South,610,Nap Be Gone,500,65,30
+139,3,South,872,Purple Pain,105,12,6
+140,10,South,221,Just The Fruit,160,67,46
+141,12,West,313,Yellow Zonkers,134,53,85
+142,5,South,103,Grey Gummies,446,45,5
+143,5,West,863,Cheezos,372,12,4
+144,4,South,256,Crocodile Tears,143,2,100
+145,2,West,720,Just The Fruit,160,70,34
+146,7,Midwest,734,Ultra-Salty Chips,454,28,76
+147,4,West,7,Power Gels,193,23,54
+148,12,Midwest,775,Orange Creepies,300,17,46
+149,9,West,896,Future Toast,253,78,5
+150,12,West,783,Ultra-Salty Chips,454,25,72
+151,5,South,513,Purple Pain,105,89,36
+152,4,West,725,Red Rock Candy,189,62,46
+153,5,South,234,Power Gels,193,98,93
+154,3,Northeast,491,Grey Gummies,446,24,95
+155,10,South,782,GMO Guardian,176,43,72
+156,11,South,417,Farm Fresh,365,4,98
+157,8,West,253,Cheezos,372,14,89
+158,11,West,292,Rotpunkt,220,8,50
+159,1,South,818,Crocodile Tears,143,87,51
+160,2,West,234,Giant Gummies,347,48,7
+161,3,Midwest,778,Funky Pops,380,75,15
+162,2,South,504,Crocodile Tears,143,59,45
+163,6,Midwest,114,Yellow Zonkers,134,70,73
+164,5,South,246,Green Lightning,161,14,71
+165,10,West,128,Funky Pops,380,63,42
+166,5,West,970,Organiks,257,84,90
+167,11,South,360,Funky Pops,380,76,58
+168,7,West,730,Big Waffle,268,82,48
+169,12,South,37,Organiks,257,83,47
+170,12,Northeast,282,Ultra-Salty Chips,454,12,3
+171,4,West,205,Meat B Gone,495,35,13
+172,1,South,308,Big Waffle,268,9,81
+173,5,South,754,Green Lightning,161,38,9
+174,3,South,155,Big Waffle,268,64,99
+175,12,South,742,Giant Gummies,347,34,74
+176,8,Northeast,323,Green Lightning,161,75,15
+177,7,South,573,Future Toast,253,75,98
+178,2,Northeast,120,Mr Greens,447,95,37
+179,11,West,194,Yellow Zonkers,134,89,57
+180,2,Midwest,204,Grey Gummies,446,73,26
+181,1,West,761,Organiks,257,29,47
+182,11,West,555,Panda Gummies,104,81,76
+183,2,West,680,PearApple,363,2,58
+184,9,South,784,Meat B Gone,495,17,42
+185,3,Northeast,193,Giant Gummies,347,36,86
+186,1,Midwest,857,Orange Creepies,300,98,54
+187,7,Northeast,860,Power Gels,193,49,82
+188,8,West,548,Meat B Gone,495,21,44
+189,5,South,348,Grey Gummies,446,17,51
+190,5,South,401,Red Hot Chili Peppers,233,20,25
+191,4,Midwest,968,Orange Creepies,300,71,58
+192,10,West,866,Panda Gummies,104,59,42
+193,10,Midwest,433,Just The Fruit,160,31,100
+194,8,West,380,Green Lightning,161,4,28
+195,9,South,772,Power Gels,193,47,93
+196,3,West,203,Future Toast,253,38,69
+197,2,West,696,Red Hot Chili Peppers,233,17,40
+198,3,Midwest,616,Green Lightning,161,92,22
+199,1,Northeast,457,Big Waffle,268,48,64
+200,8,West,535,Grey Gummies,446,76,16
+201,10,South,244,Big Waffle,268,53,35
+202,6,South,710,Power Gels,193,97,22
+203,10,South,624,Only Pancakes,413,88,43
+204,4,Midwest,213,Organiks,257,45,52
+205,11,West,364,PearApple,363,54,55
+206,3,South,508,PearApple,363,82,99
+207,4,South,929,Big Waffle,268,58,40
+208,6,Northeast,359,Big Waffle,268,49,36
+209,8,West,669,Purple Pain,105,76,92
+210,9,South,421,Mr Greens,447,61,23
+211,10,West,439,Orange Creepies,300,42,38
+212,9,Midwest,632,Ultra-Salty Chips,454,74,49
+213,9,Midwest,19,Mr Greens,447,79,31
+214,5,South,187,Red Rock Candy,189,93,63
+215,4,West,535,Giant Gummies,347,82,10
+216,7,South,519,Giant Gummies,347,69,81
+217,2,South,962,Green Lightning,161,56,49
+218,11,Midwest,145,Mr Greens,447,95,47
+219,7,West,849,Organiks,257,75,47
+220,5,South,79,Cheezos,372,27,58
+221,2,Northeast,643,Power Gels,193,37,68
+222,5,Northeast,881,Nap Be Gone,500,51,68
+223,10,Midwest,5,Cheezos,372,35,93
+224,12,West,458,Giant Gummies,347,38,7
+225,9,Northeast,335,Farm Fresh,365,98,78
+226,12,West,585,Only Pancakes,413,17,28
+227,6,South,1,Red Rock Candy,189,2,84
+228,11,South,15,Only Pancakes,413,14,47
+229,1,Midwest,548,Mr Greens,447,14,17
+230,5,South,189,Green Lightning,161,99,46
+231,10,Midwest,721,Green Lightning,161,94,61
+232,11,South,276,Future Toast,253,48,17
+233,2,South,721,Just The Fruit,160,96,48
+234,9,South,143,Nap Be Gone,500,77,99
+235,11,Northeast,129,Power Gels,193,34,77
+236,4,Midwest,727,Grey Gummies,446,21,19
+237,6,Northeast,945,Crocodile Tears,143,16,31
+238,4,South,817,Panda Gummies,104,70,68
+239,2,Northeast,267,Panda Gummies,104,20,35
+240,6,South,520,Red Hot Chili Peppers,233,96,66
+241,2,South,714,Farm Fresh,365,37,24
+242,4,Northeast,347,Rotpunkt,220,85,63
+243,9,West,545,Grey Gummies,446,72,52
+244,1,South,265,Mr Greens,447,83,33
+245,12,West,549,Just The Fruit,160,75,81
+246,8,Northeast,49,Yellow Zonkers,134,16,82
+247,11,West,305,Organiks,257,93,39
+248,12,South,619,Green Lightning,161,1,90
+249,3,West,172,Red Rock Candy,189,47,51
+250,12,Midwest,9,Rotpunkt,220,28,27
+251,9,South,36,Only Pancakes,413,18,6
+252,9,Northeast,576,Power Gels,193,18,15
+253,9,Midwest,893,Power Gels,193,43,61
+254,1,Midwest,505,Mr Greens,447,99,85
+255,3,Midwest,152,Future Toast,253,81,79
+256,12,Midwest,420,Power Gels,193,87,38
+257,1,Midwest,320,Purple Pain,105,52,79
+258,4,West,653,Big Waffle,268,73,61
+259,10,West,190,Red Hot Chili Peppers,233,85,30
+260,6,Midwest,389,Yellow Zonkers,134,22,73
+261,9,South,91,Future Toast,253,14,25
+262,10,Northeast,856,Only Pancakes,413,20,43
+263,6,South,406,Organiks,257,24,64
+264,6,West,174,Big Waffle,268,21,48
+265,8,West,165,Ultra-Salty Chips,454,35,49
+266,5,Northeast,405,Green Lightning,161,97,8
+267,11,South,360,Funky Pops,380,48,85
+268,11,Midwest,645,Nap Be Gone,500,48,87
+269,10,Midwest,114,PearApple,363,62,42
+270,11,Northeast,574,Farm Fresh,365,90,33
+271,10,South,985,Green Lightning,161,54,69
+272,1,South,493,Red Hot Chili Peppers,233,92,67
+273,8,South,146,Just The Fruit,160,97,11
+274,10,West,967,Red Hot Chili Peppers,233,7,74
+275,12,South,992,Panda Gummies,104,70,47
+276,11,Northeast,865,Panda Gummies,104,21,80
+277,10,Midwest,754,Crocodile Tears,143,49,20
+278,4,West,40,Rotpunkt,220,92,71
+279,3,West,290,PearApple,363,50,7
+280,12,Northeast,994,PearApple,363,86,50
+281,5,Midwest,191,Grey Gummies,446,43,86
+282,1,South,748,Crocodile Tears,143,89,58
+283,2,West,907,Rotpunkt,220,7,60
+284,2,Northeast,656,Ultra-Salty Chips,454,90,26
+285,1,Midwest,740,Red Hot Chili Peppers,233,52,42
+286,12,South,305,Ultra-Salty Chips,454,68,83
+287,12,West,260,Crocodile Tears,143,18,43
+288,2,Northeast,471,Meat B Gone,495,63,65
+289,5,West,421,Green Lightning,161,20,91
+290,11,Northeast,407,Giant Gummies,347,39,63
+291,4,West,583,GMO Guardian,176,9,54
+292,12,West,940,Power Gels,193,7,42
+293,2,South,519,Just The Fruit,160,23,14
+294,6,South,623,Organiks,257,22,12
+295,6,South,476,Power Gels,193,60,58
+296,5,Midwest,747,Yellow Zonkers,134,14,38
+297,4,West,647,Green Lightning,161,45,64
+298,6,Midwest,578,Organiks,257,12,44
+299,7,Midwest,462,GMO Guardian,176,66,66
+300,7,Midwest,229,Grey Gummies,446,42,92
+301,7,Midwest,196,Crocodile Tears,143,30,29
+302,8,South,459,Farm Fresh,365,22,81
+303,9,South,450,PearApple,363,55,74
+304,5,Midwest,435,Organiks,257,56,100
+305,3,West,953,Only Pancakes,413,26,3
+306,4,West,290,Organiks,257,79,65
+307,12,West,952,Just The Fruit,160,60,27
+308,11,South,132,Farm Fresh,365,71,25
+309,5,Northeast,259,Funky Pops,380,46,81
+310,6,West,951,Just The Fruit,160,66,55
+311,5,Midwest,444,Red Rock Candy,189,49,93
+312,6,South,286,Purple Pain,105,48,33
+313,11,South,745,GMO Guardian,176,48,87
+314,10,West,847,Purple Pain,105,24,74
+315,5,Northeast,152,Nap Be Gone,500,12,72
+316,7,West,584,Meat B Gone,495,63,93
+317,6,South,900,Mr Greens,447,35,79
+318,4,South,902,PearApple,363,23,37
+319,6,Northeast,986,Grey Gummies,446,78,98
+320,9,South,340,Panda Gummies,104,84,29
+321,5,Midwest,211,Rotpunkt,220,42,42
+322,3,West,698,Mr Greens,447,25,44
+323,3,Northeast,552,Grey Gummies,446,99,7
+324,9,South,748,Grey Gummies,446,66,92
+325,12,West,394,Cheezos,372,59,82
+326,7,Midwest,656,Rotpunkt,220,8,44
+327,12,South,990,Organiks,257,28,34
+328,3,Midwest,323,Yellow Zonkers,134,89,47
+329,4,Northeast,732,Farm Fresh,365,66,10
+330,12,South,924,Power Gels,193,33,65
+331,12,Midwest,294,Purple Pain,105,68,12
+332,11,West,894,Red Hot Chili Peppers,233,86,86
+333,7,South,776,Red Rock Candy,189,9,66
+334,3,Midwest,639,Farm Fresh,365,30,50
+335,6,West,52,Orange Creepies,300,30,93
+336,5,West,910,Nap Be Gone,500,39,28
+337,1,West,416,Purple Pain,105,95,64
+338,6,Northeast,204,Yellow Zonkers,134,61,1
+339,7,Northeast,106,Ultra-Salty Chips,454,36,78
+340,10,Midwest,602,GMO Guardian,176,21,33
+341,10,South,328,Just The Fruit,160,20,79
+342,7,South,803,Cheezos,372,59,67
+343,8,West,117,Only Pancakes,413,27,92
+344,8,West,173,Grey Gummies,446,7,49
+345,12,West,95,Funky Pops,380,38,32
+346,5,South,38,Crocodile Tears,143,39,81
+347,2,Northeast,337,Nap Be Gone,500,5,25
+348,3,Midwest,734,Green Lightning,161,42,77
+349,8,Midwest,592,Future Toast,253,49,33
+350,6,South,69,Funky Pops,380,14,91
+351,7,South,397,Cheezos,372,54,35
+352,9,West,763,Farm Fresh,365,15,39
+353,9,West,919,Orange Creepies,300,60,8
+354,9,Northeast,89,Funky Pops,380,96,56
+355,7,West,154,PearApple,363,33,55
+356,9,Midwest,410,Panda Gummies,104,48,78
+357,9,South,142,Panda Gummies,104,95,5
+358,11,Northeast,83,Future Toast,253,51,71
+359,2,Northeast,84,Farm Fresh,365,9,23
+360,8,Northeast,29,Orange Creepies,300,62,84
+361,8,Northeast,933,Green Lightning,161,38,88
+362,11,Midwest,16,Organiks,257,33,96
+363,1,South,493,Green Lightning,161,30,28
+364,1,Midwest,856,Funky Pops,380,14,15
+365,1,Midwest,775,GMO Guardian,176,69,26
+366,3,West,249,Giant Gummies,347,80,52
+367,1,Northeast,831,Ultra-Salty Chips,454,28,53
+368,10,South,372,Red Hot Chili Peppers,233,58,97
+369,11,South,567,Funky Pops,380,83,45
+370,6,South,398,Panda Gummies,104,92,13
+371,6,South,529,Big Waffle,268,43,35
+372,7,West,320,Giant Gummies,347,29,11
+373,1,South,507,Red Hot Chili Peppers,233,80,73
+374,2,West,518,Grey Gummies,446,7,76
+375,9,West,25,Grey Gummies,446,21,43
+376,3,South,901,Funky Pops,380,67,16
+377,4,South,226,PearApple,363,63,39
+378,10,South,226,Just The Fruit,160,83,86
+379,1,South,197,Purple Pain,105,40,18
+380,8,Northeast,411,Organiks,257,67,84
+381,4,Midwest,431,Meat B Gone,495,63,11
+382,7,South,904,Meat B Gone,495,79,46
+383,1,Northeast,685,Organiks,257,47,68
+384,8,Northeast,732,Future Toast,253,72,13
+385,8,West,215,Green Lightning,161,50,73
+386,9,South,728,Farm Fresh,365,97,98
+387,10,South,877,Ultra-Salty Chips,454,48,70
+388,5,Midwest,699,Giant Gummies,347,21,96
+389,10,Midwest,539,Only Pancakes,413,86,55
+390,7,Midwest,834,Mr Greens,447,78,10
+391,9,Midwest,201,Yellow Zonkers,134,10,52
+392,6,Midwest,934,Purple Pain,105,92,33
+393,11,South,286,Ultra-Salty Chips,454,4,97
+394,6,South,774,Power Gels,193,74,29
+395,8,Midwest,662,Grey Gummies,446,42,96
+396,1,Midwest,524,Giant Gummies,347,84,96
+397,8,Midwest,948,Grey Gummies,446,37,93
+398,3,West,164,Red Hot Chili Peppers,233,8,30
+399,4,West,250,Grey Gummies,446,98,64
+400,3,West,832,Purple Pain,105,21,81
+401,3,Midwest,307,Red Rock Candy,189,48,45
+402,4,West,288,Meat B Gone,495,93,25
+403,9,South,62,Nap Be Gone,500,62,47
+404,11,West,967,Power Gels,193,8,54
+405,8,South,142,Funky Pops,380,73,85
+406,12,Northeast,104,Funky Pops,380,46,81
+407,2,South,242,Ultra-Salty Chips,454,51,63
+408,11,South,880,Funky Pops,380,75,12
+409,6,Midwest,781,Yellow Zonkers,134,67,19
+410,3,Northeast,598,Panda Gummies,104,18,15
+411,11,South,908,Future Toast,253,46,85
+412,6,Midwest,507,Meat B Gone,495,43,15
+413,11,Midwest,830,Giant Gummies,347,63,63
+414,3,South,801,Rotpunkt,220,90,71
+415,9,Midwest,341,Red Rock Candy,189,76,30
+416,7,Northeast,103,Red Rock Candy,189,77,77
+417,12,West,89,Yellow Zonkers,134,81,91
+418,5,South,836,Cheezos,372,86,63
+419,10,South,457,Orange Creepies,300,40,91
+420,12,South,546,Purple Pain,105,68,86
+421,12,Midwest,850,Giant Gummies,347,82,97
+422,3,Midwest,309,Nap Be Gone,500,100,33
+423,4,West,856,Big Waffle,268,57,87
+424,10,Midwest,256,Mr Greens,447,78,63
+425,9,South,193,Orange Creepies,300,43,54
+426,8,Northeast,958,PearApple,363,31,72
+427,10,Midwest,78,Ultra-Salty Chips,454,94,46
+428,6,West,730,Farm Fresh,365,100,50
+429,9,South,443,Mr Greens,447,73,15
+430,1,Midwest,31,Crocodile Tears,143,31,70
+431,5,Midwest,32,Mr Greens,447,28,72
+432,4,Northeast,274,Big Waffle,268,26,77
+433,7,Northeast,359,Big Waffle,268,85,72
+434,3,Midwest,965,Cheezos,372,76,36
+435,6,Northeast,587,Green Lightning,161,11,19
+436,11,South,70,Yellow Zonkers,134,42,56
+437,6,Midwest,252,Red Hot Chili Peppers,233,42,32
+438,3,South,51,Purple Pain,105,87,56
+439,11,South,59,Red Rock Candy,189,53,78
+440,8,Midwest,937,Crocodile Tears,143,2,8
+441,11,Northeast,304,Future Toast,253,65,12
+442,3,West,282,Red Rock Candy,189,19,24
+443,11,South,279,Future Toast,253,2,43
+444,4,Northeast,971,Mr Greens,447,48,99
+445,1,Northeast,454,Crocodile Tears,143,47,57
+446,11,Midwest,406,GMO Guardian,176,77,25
+447,3,Northeast,317,PearApple,363,47,20
+448,3,South,258,Purple Pain,105,88,29
+449,7,South,616,Power Gels,193,52,91
+450,2,Midwest,976,Green Lightning,161,30,3
+451,6,West,180,Big Waffle,268,53,67
+452,5,West,897,Cheezos,372,95,82
+453,1,South,231,Nap Be Gone,500,5,46
+454,5,Midwest,694,Cheezos,372,5,22
+455,3,Midwest,945,Yellow Zonkers,134,84,91
+456,11,South,609,Orange Creepies,300,50,11
+457,3,South,896,Organiks,257,43,94
+458,6,Midwest,497,Red Hot Chili Peppers,233,98,82
+459,6,Northeast,995,Nap Be Gone,500,88,51
+460,3,South,556,Purple Pain,105,61,77
+461,12,Northeast,244,Yellow Zonkers,134,93,34
+462,11,Midwest,15,Future Toast,253,35,25
+463,2,Northeast,761,Organiks,257,62,19
+464,9,Northeast,345,PearApple,363,89,45
+465,5,South,937,Green Lightning,161,17,24
+466,1,West,387,Crocodile Tears,143,54,62
+467,10,West,361,Orange Creepies,300,11,21
+468,9,South,11,Giant Gummies,347,59,33
+469,1,West,346,Big Waffle,268,38,75
+470,11,South,408,Rotpunkt,220,17,100
+471,8,South,257,Power Gels,193,58,73
+472,1,Midwest,781,Yellow Zonkers,134,59,100
+473,4,South,950,Just The Fruit,160,87,47
+474,8,Midwest,849,Mr Greens,447,55,37
+475,4,Midwest,668,Big Waffle,268,97,70
+476,7,South,413,Crocodile Tears,143,36,93
+477,5,Northeast,733,Orange Creepies,300,61,41
+478,12,South,258,Farm Fresh,365,58,29
+479,8,South,314,Just The Fruit,160,61,20
+480,5,West,964,Green Lightning,161,52,20
+481,6,South,875,Giant Gummies,347,90,95
+482,10,Midwest,98,Meat B Gone,495,88,96
+483,8,South,650,Meat B Gone,495,94,70
+484,6,Midwest,601,Mr Greens,447,98,22
+485,2,Midwest,72,Crocodile Tears,143,91,75
+486,5,Northeast,567,Red Hot Chili Peppers,233,88,42
+487,11,South,659,Nap Be Gone,500,59,76
+488,7,South,643,Cheezos,372,71,42
+489,8,South,154,Crocodile Tears,143,24,25
+490,12,South,958,Meat B Gone,495,29,99
+491,12,Northeast,781,Red Hot Chili Peppers,233,28,35
+492,9,South,601,Nap Be Gone,500,1,17
+493,1,Midwest,485,Only Pancakes,413,38,29
+494,12,Midwest,769,Giant Gummies,347,70,25
+495,9,South,148,Panda Gummies,104,21,32
+496,6,West,991,Giant Gummies,347,94,6
+497,12,Midwest,467,Funky Pops,380,65,48
+498,9,South,298,Panda Gummies,104,39,20
+499,7,West,73,Panda Gummies,104,25,15
